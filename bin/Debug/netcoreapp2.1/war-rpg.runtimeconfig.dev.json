@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/caina-bonfiglioli/.dotnet/store/|arch|/|tfm|",
+      "/home/caina-bonfiglioli/.nuget/packages",
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

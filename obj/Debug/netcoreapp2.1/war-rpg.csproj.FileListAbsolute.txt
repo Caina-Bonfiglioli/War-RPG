@@ -1,0 +1,11 @@
+/home/caina-bonfiglioli/workspace/war-rpg/bin/Debug/netcoreapp2.1/war-rpg.deps.json
+/home/caina-bonfiglioli/workspace/war-rpg/bin/Debug/netcoreapp2.1/war-rpg.runtimeconfig.json
+/home/caina-bonfiglioli/workspace/war-rpg/bin/Debug/netcoreapp2.1/war-rpg.runtimeconfig.dev.json
+/home/caina-bonfiglioli/workspace/war-rpg/bin/Debug/netcoreapp2.1/war-rpg.dll
+/home/caina-bonfiglioli/workspace/war-rpg/bin/Debug/netcoreapp2.1/war-rpg.pdb
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.csprojAssemblyReference.cache
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.csproj.CoreCompileInputs.cache
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.AssemblyInfoInputs.cache
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.AssemblyInfo.cs
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.dll
+/home/caina-bonfiglioli/workspace/war-rpg/obj/Debug/netcoreapp2.1/war-rpg.pdb

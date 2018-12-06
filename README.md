@@ -18,10 +18,13 @@ infantaria <- int
 cavalaria <- int
 artilharia <- int
 
-a subclasses de exercito serão:
+a subclasses de tropas serão:
 Marinha
 Aeronautica
 Exercito
+
+a subclasse marinha tera:
+
 
 a classe Dado será pelo dado de 20 lados (D20):
 os atributos:
