@@ -1,32 +1,12 @@
 #War-Rpg
+
 Jogo criado para trabalho de POO
 
-para o jogador é necessario uma classe (Jogador):
-os atributos:
-nome <- string
-sobrenome <- string
+##REGRAS
 
-para o territorio é necessario uma classe (Territorio):
-os atributos:
-tamanho <- double
-comandante <- player
-valor <- int
+As regras são as mesmas que o WAR tradicional, contudo misturadas com RPG de mesa.
 
-para as tropas é necessario uma classse (Tropas):
-os atributos:
-infantaria <- int
-cavalaria <- int
-artilharia <- int
+Você pode batalhar pelos continentes do planeta, ou quem sabe lutar pelos reinos de Westeros.
 
-a subclasses de tropas serão:
-Marinha
-Aeronautica
-Exercito
-
-a subclasse marinha tera:
-
-
-a classe Dado será pelo dado de 20 lados (D20):
-os atributos:
-valor <- int
-o metodo RolarDado será responsavel por gerar um numero de 1 a 20
+###Para iniciar o jogo
+Rode o comando **dotnet run** e escolha uma das opções no menu.

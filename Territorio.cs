@@ -4,8 +4,23 @@ namespace war_rpg
 {
     public class Territorio
     {
-        public string NomeTerritorio { get; set; }
-        public Jogador Comandante { get; set; }
-        public int Valor { get; set; }
+        private string nomeTerritorio;
+        public string NomeTerritorio { 
+            get{
+                return nomeTerritorio;
+            } 
+            set{
+                nomeTerritorio = value;
+            } 
+        }
+        private Jogador comandante;
+        public Jogador Comandante {
+            get{
+                return comandante;
+            }
+            set{
+                comandante = value;
+            } 
+        }
     }
 }
